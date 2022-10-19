@@ -1,10 +1,9 @@
 # Nextjs Tailwind ECommerce Website Like Amazon
 
-![next amazona](/public/app.jpg)
 
 Build ECommerce Website Like Amazon by Next.js
 
-- Demo Website :  https://nextjs-amazona-final.vercel.app
+- Demo Website : https://e-commerce-next-kappa.vercel.app/search	
 
 
 - Tailwind CSS framework to build responsive website using custom theme, animation and carousel
@@ -14,10 +13,6 @@ Build ECommerce Website Like Amazon by Next.js
 - PayPal developer api to make online payment
 - Deploy web applications on servers like Vercel and Netlify
 
-## Full Course
-
-Learn building this ecommerce website on Udemy with 90% discount:
-https://www.udemy.com/course/nextjs-ecommerce
 
 ## Run it Locally
 
